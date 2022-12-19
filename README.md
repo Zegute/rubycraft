@@ -1,6 +1,6 @@
 
 # Rubycraft
-If you get a bug of Rubycraft, please send issue with reason.
+If you get some bugs of Rubycraft, please send issue with reason.
 
 
 Some link of Rubycraft:
